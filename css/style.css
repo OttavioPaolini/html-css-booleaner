@@ -1,3 +1,24 @@
-h1{
-    color: red;
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+/* COMMON */
+
+/* HEADER */
+
+.banner{
+    height: 100px;
+    width: auto;
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    /* background-attachment: fixed; */
+    background-size: 400px;
+}
+
+
+/* MAIN */
+
+
