@@ -55,5 +55,23 @@ table{
 }
 
 .pc-desk{
-    width: 200px;
+    height: 200px;
+    width: 250px;
+    background-image: url(../img/monitor.jpg);  
+    }
+
+.graphic{
+    margin-top: 10px;
+    height: 200px;
+    width: 250px;
+    background-image: url(../img/graph.jpg);
+}
+
+h4{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 5px;
+    color: rgb(255, 255, 255);
 }
