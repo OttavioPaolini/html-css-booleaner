@@ -1,24 +1,28 @@
 /* RESET */
-*{
+body{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+   
 }
 /* COMMON */
 
 /* HEADER */
 
-.banner{
+header{
     height: 100px;
     width: auto;
     background-color: rgb(78, 160, 255);
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
-    /* background-attachment: fixed; */
     background-size: 400px;
 }
 
+.logo{
+    width: 200px;
+}
 
 /* MAIN */
 
-
+.highlights{
+    background-color: rgb(255, 255, 0);
+}
