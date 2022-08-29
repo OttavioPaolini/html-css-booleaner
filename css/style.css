@@ -5,7 +5,13 @@ body{
    
 }
 /* COMMON */
+.highlights{
+    background-color: rgb(255, 255, 0);
+}
 
+.artist{
+    color:rgb(78, 160, 255);
+}
 /* HEADER */
 
 header{
@@ -22,7 +28,32 @@ header{
 }
 
 /* MAIN */
+h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
 
-.highlights{
-    background-color: rgb(255, 255, 0);
+h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.photo-tim{
+    margin-top: 20px;
+}
+
+.table-title{
+    background-color: rgb(0, 204, 255);
+    color: white;
+}
+
+.table-body{
+    background-color: rgba(127, 225, 255, 0.63);
+}
+table{
+    border-collapse: collapse;
+}
+
+.pc-desk{
+    width: 200px;
 }
